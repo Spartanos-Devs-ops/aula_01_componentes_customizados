@@ -1,11 +1,12 @@
 {
-  "vendor": "vtex",
-  "name": "minimumtheme",
+  "vendor": "outletespacohering",
+  "name": "outletespacohering-components",
   "version": "0.1.0",
   "builders": {
     "styles": "2.x",
     "store": "0.x",
-    "docs": "0.x"
+    "docs": "0.x",
+    "react": "3.x"
   },
   "scripts": {
     "postreleasy": "vtex publish --verbose"
@@ -39,6 +40,7 @@
     "vtex.order-placed": "2.x",
     "vtex.stack-layout": "0.x",
     "vtex.tab-layout": "0.x",
+    "vtex.css-handles": "0.x",
     "vtex.responsive-layout": "0.x",
     "vtex.slider-layout": "0.x",
     "vtex.iframe": "0.x",

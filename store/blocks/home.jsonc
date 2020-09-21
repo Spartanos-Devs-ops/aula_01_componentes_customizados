@@ -1,11 +1,14 @@
 {
-  "store.home": { 
-    "blocks": [
-      "rich-text"
-    ]
+  "store.home": {
+    "blocks": ["rich-text", "text-custom#home"]
   },
-  "rich-text": { 
-    "props": { 
+  "text-custom#home": {
+    "props": {
+      "title": "Olá mundo"
+    }
+  },
+  "rich-text": {
+    "props": {
       "text": "VTEX Store Framework",
       "textAlignment": "CENTER",
       "textPosition": "CENTER",
