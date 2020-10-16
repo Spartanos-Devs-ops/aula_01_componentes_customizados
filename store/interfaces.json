@@ -1,11 +1,5 @@
 {
-  "text-custom": {
-    "component": "TextCustom",
-    "composition": "children",
-    "render": "client",
-    "preview": {
-      "type": "box",
-      "height": 20
-    }
+  "test-component": {
+    "component": "TestComponent"
   }
 }

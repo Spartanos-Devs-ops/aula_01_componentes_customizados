@@ -1,6 +1,6 @@
 {
-  "vendor": "outletespacohering",
-  "name": "outletespacohering-components",
+  "vendor": "acupula",
+  "name": "sandbox",
   "version": "0.1.0",
   "builders": {
     "styles": "2.x",

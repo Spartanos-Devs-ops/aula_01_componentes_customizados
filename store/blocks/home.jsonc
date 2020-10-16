@@ -1,18 +1,6 @@
 {
   "store.home": {
-    "blocks": ["rich-text", "text-custom#home"]
+    "blocks": ["test-component"]
   },
-  "text-custom#home": {
-    "props": {
-      "title": "Olá mundo"
-    }
-  },
-  "rich-text": {
-    "props": {
-      "text": "VTEX Store Framework",
-      "textAlignment": "CENTER",
-      "textPosition": "CENTER",
-      "font": "t-heading-1"
-    }
-  }
+  "test-component": {}
 }
